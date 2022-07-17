@@ -7,4 +7,4 @@ Problems it solves: It solves sudoku on some blinks.
 
 Technology used:  Html, CSS, Python, Javascript
 
-Link to the github repository:
+Video Link : https://drive.google.com/file/d/1qKbEl-HzAq0wxIJCwTEifMUdqf4BiJ3t/view?usp=sharing
